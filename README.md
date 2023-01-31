@@ -9,6 +9,13 @@
 
 ## About Crud Ajax Laravel 9 with MySQL
 
+## Tutorial Project :
+
+Step 1: Run php artisan migrate
+
+Step 2: Run php artisan serve
+
+
 +Edit 
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/123797735/215676613-960bfde0-bad5-4d94-9d76-01035982d416.png)
