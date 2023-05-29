@@ -31,6 +31,9 @@ Step 2: Run php artisan serve
 
 Credit : Trean Chhanon
 
-Gmail : chhanontrean@gmail.com
+# Contact Me:
 
-Tell : +855 97 8982 802
+- Tell - [+855 97 8982 802](0978982802)
+- Facebook - [Nun](https://web.facebook.com/profile.php?id=100034372398630)
+- Instagram - [moxie_nun]()
+- Gmail - [chhanontrean@gmail.com]()
